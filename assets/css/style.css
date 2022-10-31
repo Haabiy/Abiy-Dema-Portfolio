@@ -203,3 +203,11 @@ div.QR{
 div.phone-no, p.courses{
     margin-left : 30px
 }
+
+iframe.calendar{
+    border-radius: 25px;
+    background: var(--color-brand2);
+    padding: 3px;
+    width: 700px;
+    height: 350px;
+}
