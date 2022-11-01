@@ -104,7 +104,7 @@ img {
     color: var(--color-brand);
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 769px) {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
@@ -113,9 +113,8 @@ img {
         background-position: center;
     }
 
-    iframe.calendar{
-        margin-left: 75px;
-        width: 1000px;
+    .calendar{
+        background-color: black;
     }
 
     .navbar-brand img {
@@ -209,9 +208,17 @@ div.QR{
 div.phone-no, p.courses{
     margin-left : 30px
 }
-
 iframe.calendar{
-    margin-left: 15px;
-    width: 300px;
+    margin-left: 50px;
+    width: 250px;
     height: 320px;
 }
+
+@media only screen and (min-width: 769px) {
+    iframe.calendar{
+        margin-left: 50px;
+        width: 515px;
+        height: 320px;
+    }
+}
+
