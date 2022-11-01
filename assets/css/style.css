@@ -120,6 +120,10 @@ img {
     #content-wrapper {
         padding-left: var(--sidbar-width);
     }
+
+    iframe.calendar{
+        width: 350px;
+    }
 }
 
 /* BTN */
