@@ -87,6 +87,7 @@ img {
 /* NAVBAR */
 .navbar {
     background-color: var(--color-base);
+    background: linear-gradient(rgba(3, 63, 71, 0.8), rgba(3, 63, 71, 0.8)), url(../images/AI.png);
 }
 
 .navbar .nav-link {
@@ -112,17 +113,17 @@ img {
         background-position: center;
     }
 
+    iframe.calendar{
+        margin-left: 75px;
+        width: 1000px;
+    }
+
     .navbar-brand img {
         border: 8px solid var(--color-brand);
     }
-
     /* CONTENT WRAPPER */
-    #content-wrapper {
+    #content-wrapper{
         padding-left: var(--sidbar-width);
-    }
-
-    iframe.calendar{
-        width: 350px;
     }
 }
 
@@ -196,7 +197,7 @@ img {
 }
 
 #contact input.form-control {
-    height: 44px;
+    width: 44px;
 }
 
 div.QR{
@@ -210,9 +211,7 @@ div.phone-no, p.courses{
 }
 
 iframe.calendar{
-    border-radius: 25px;
-    background: var(--color-brand2);
-    padding: 3px;
-    width: 700px;
-    height: 350px;
+    margin-left: 15px;
+    width: 300px;
+    height: 320px;
 }
