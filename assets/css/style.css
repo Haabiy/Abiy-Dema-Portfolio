@@ -197,7 +197,8 @@ img {
 
 div.QR{
     width: 15%;
-    margin-left: 475px;
+    margin-left: 480px;
+    padding:0%
 }
 
 div.phone-no, p.courses{
