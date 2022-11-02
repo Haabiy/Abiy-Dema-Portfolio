@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
 
 :root {
-    --color-body: #b6cbce;
+    --color-body: #001a33;
     --color-heading: #eef3db;
-    --color-base: #033f47;
-    --color-base2: #0d1a26;
+    --color-base: #ffffff;
+    --color-base2:  #5c6666;
     --color-brand: #ebaa33;
     --color-brand2: #FFA500;
     --sidbar-width: 240px;
@@ -18,7 +18,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: var(--color-heading);
+    color: var(---heading);
     font-weight: 700;
 }
 
@@ -87,7 +87,7 @@ img {
 /* NAVBAR */
 .navbar {
     background-color: var(--color-base);
-    background: linear-gradient(rgb(19, 38, 57,0.8), rgb(19, 38, 57,0.8)), url(../images/AI-Resized.png);
+    background: linear-gradient(#5c6666, rgb(19, 38, 57,0.5));
 }
 
 .navbar .nav-link {
@@ -108,7 +108,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(rgb(19, 38, 57,0.8), rgb(19, 38, 57,0.8)), url(../images/AI.png);
+        background: linear-gradient(#5c6666, rgb(19, 38, 57,0.5));
         background-size: cover;
         background-position: center;
     }
