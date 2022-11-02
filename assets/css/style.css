@@ -4,7 +4,7 @@
     --color-body: #b6cbce;
     --color-heading: #eef3db;
     --color-base: #033f47;
-    --color-base2: #022a30;
+    --color-base2: #0d1a26;
     --color-brand: #ebaa33;
     --color-brand2: #FFA500;
     --sidbar-width: 240px;
@@ -87,7 +87,7 @@ img {
 /* NAVBAR */
 .navbar {
     background-color: var(--color-base);
-    background: linear-gradient(rgba(3, 63, 71, 0.8), rgba(3, 63, 71, 0.8)), url(../images/AI.png);
+    background: linear-gradient(rgb(19, 38, 57,0.8), rgb(19, 38, 57,0.8)), url(../images/AI-Resized.png);
 }
 
 .navbar .nav-link {
@@ -108,7 +108,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(rgba(3, 63, 71, 0.8), rgba(3, 63, 71, 0.8)), url(../images/AI.png);
+        background: linear-gradient(rgb(19, 38, 57,0.8), rgb(19, 38, 57,0.8)), url(../images/AI.png);
         background-size: cover;
         background-position: center;
     }
@@ -216,7 +216,7 @@ iframe.calendar{
 
 @media only screen and (min-width: 769px) {
     iframe.calendar{
-        margin-left: 60px;
+        margin-left: 65px;
         width: 515px;
         height: 320px;
     }
