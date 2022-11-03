@@ -124,6 +124,7 @@ img {
     #content-wrapper{
         padding-left: var(--sidbar-width);
     }
+
 }
 
 /* BTN */
@@ -214,11 +215,24 @@ iframe.calendar{
     height: 320px;
 }
 
+video.vid{
+    width :320px;
+    height: 200px;
+    margin-left: 15px;
+}
+
 @media only screen and (min-width: 769px) {
     iframe.calendar{
         margin-left: 65px;
         width: 515px;
         height: 320px;
     }
+
+    video.vid{
+        margin-left: 0px;
+    }
+    
 }
+
+
 
