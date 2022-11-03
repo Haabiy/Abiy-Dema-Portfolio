@@ -218,7 +218,7 @@ iframe.calendar{
 video.vid{
     width :320px;
     height: 200px;
-    margin-left: 11.5px;
+    margin-left: 8px;
 }
 
 @media only screen and (min-width: 769px) {
