@@ -146,12 +146,12 @@ img {
     border-color: var(--color-brand2);
 }
 
-.link-custom {
+.link-custom{
     font-weight: 700;
     position: relative;
 }
 
-.link-custom::after {
+.link-custom::after{
     content: "";
     width: 0%;
     height: 2px;
@@ -162,7 +162,7 @@ img {
     transition: all 0.4s;
 }
 
-.link-custom:hover::after {
+.link-custom:hover::after{
     width: 100%;
 }
 
