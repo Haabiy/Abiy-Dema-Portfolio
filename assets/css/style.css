@@ -4,7 +4,7 @@
     --color-body: #001a33;
     --color-heading: #eef3db;
     --color-base: #ffffff;
-    --color-base2:  #5c6666;
+    --color-base2: #5c6666;
     --color-brand: #ebaa33;
     --color-brand2: #FFA500;
     --sidbar-width: 240px;
@@ -261,7 +261,6 @@ video.vid{
         margin-top: -25px;
     }
 }
-
 .ECN_logo{
     width : 50px;
     height : 85px;
@@ -279,7 +278,6 @@ video.vid{
 .bsc-hons{
     margin-top: -25px;
 }
-
 
 
 
