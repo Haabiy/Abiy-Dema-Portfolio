@@ -146,7 +146,7 @@ img {
     border-color: var(--color-brand2);
 }
 
-.link-custom{
+.link-custom, .link-custom0{
     font-weight: 700;
     position: relative;
 }
