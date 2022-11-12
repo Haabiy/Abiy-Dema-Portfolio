@@ -104,18 +104,6 @@ img {
     color: var(--color-brand);
 }
 
-.rec-image{
-    width : 65px;
-    height : 65px;
-    margin-left: 95px;
-    margin-top: -50px;
-}
-
-.stars{
-    margin-top: 10px;
-    margin-left: 65px;
-}
-
 @media only screen and (min-width: 769px) {
     .navbar {
         min-height: 100vh;
@@ -136,6 +124,7 @@ img {
     #content-wrapper{
         padding-left: var(--sidbar-width);
     }
+
 
 }
 
@@ -242,9 +231,41 @@ video.vid{
 
     video.vid{
         margin-left: 0px;
+    }    
+    .rec-image{
+        width : 65px;
+        height : 65px;
+        margin-left: 97.5px;
+        margin-top: -55px;
     }
     
+    .stars{
+        margin-top: 10px;
+        margin-left: 67.5px;
+    }
+
+    .ECN_logo{
+        width : 50px;
+        height : 85px;
+        margin-top: -155px;
+        margin-left: -25px;
+    }
+    .centrale{
+        margin-left: 25px;
+    }
+    .nantes{
+        margin-left: 25px;
+        margin-top: -10px;
+    }
+    .nantes-loc{
+        margin-left: 0px;
+    }
+
+    .bsc-hons{
+        margin-top: -25px;
+    }
 }
+
 
 
 
