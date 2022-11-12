@@ -257,13 +257,27 @@ video.vid{
         margin-left: 25px;
         margin-top: -10px;
     }
-    .nantes-loc{
-        margin-left: 0px;
-    }
-
     .bsc-hons{
         margin-top: -25px;
     }
+}
+
+.ECN_logo{
+    width : 50px;
+    height : 85px;
+    margin-top: -155px;
+    margin-left: -25px;
+}
+
+.centrale{
+    margin-left: 25px;
+}
+.nantes{
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.bsc-hons{
+    margin-top: -25px;
 }
 
 
