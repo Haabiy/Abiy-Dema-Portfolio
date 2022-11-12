@@ -104,6 +104,18 @@ img {
     color: var(--color-brand);
 }
 
+.rec-image{
+    width : 65px;
+    height : 65px;
+    margin-left: 95px;
+    margin-top: -50px;
+}
+
+.stars{
+    margin-top: 10px;
+    margin-left: 65px;
+}
+
 @media only screen and (min-width: 769px) {
     .navbar {
         min-height: 100vh;
