@@ -222,6 +222,17 @@ video.vid{
     margin-left: 8px;
 }
 
+.PL{
+    width:100px; 
+    height: 30px;
+}
+
+.Designing-Software{
+    width:240px; 
+    height: 40px;
+}
+
+
 @media only screen and (min-width: 769px) {
     iframe.calendar{
         margin-left: 65px;
