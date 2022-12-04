@@ -11,6 +11,15 @@
     --font-base: "Bai Jamjuree";
 }
 
+.GC{
+    background-size: cover;
+    height: auto;
+    opacity: 0.5;
+}
+.main-title{
+    margin-top: -144.5px;
+}
+
 body {
     background-color: var(--color-base2);
     color: var(--color-body);
@@ -123,6 +132,15 @@ img {
     /* CONTENT WRAPPER */
     #content-wrapper{
         padding-left: var(--sidbar-width);
+    }
+
+    .GC{
+        background-size: cover;
+        height: auto;
+        opacity: 0.5;
+    }
+    .main-title{
+        margin-top: -350px;
     }
 
 
