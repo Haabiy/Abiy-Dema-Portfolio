@@ -20,6 +20,15 @@
     margin-top: -144.5px;
 }
 
+.GC-link{
+    width:150px; 
+    height: 30px;
+    margin-top: -130px;
+}
+
+.hour-min-sec{
+    margin-top: 8px;
+}
 body {
     background-color: var(--color-base2);
     color: var(--color-body);
@@ -141,6 +150,15 @@ img {
     }
     .main-title{
         margin-top: -350px;
+    }
+    .GC-link{
+        width:150px; 
+        height: 30px;
+        margin-top: -1250px;
+    }
+    
+    .hour-min-sec{
+        margin-top: 8px;
     }
 
 
