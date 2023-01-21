@@ -26,6 +26,13 @@
     margin-top: -130px;
 }
 
+.GC-link-watch-now{
+    width:150px; 
+    height: 30px;
+    margin-top: -130px;
+    margin-left: 65px;
+}
+
 .hour-min-sec{
     margin-top: 8px;
 }
@@ -156,12 +163,17 @@ img {
         height: 30px;
         margin-top: -1250px;
     }
+
+    .GC-link-watch-now{
+        width:150px; 
+        height: 30px;
+        margin-top: -1385px;
+        margin-left: 1030px;
+    }
     
     .hour-min-sec{
-        margin-top: 8px;
+        margin-top: -16px;
     }
-
-
 }
 
 /* BTN */
