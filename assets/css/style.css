@@ -214,7 +214,13 @@ img {
 .link-custom:hover::after{
     width: 100%;
 }
-
+.ex{
+    text-align: center;
+    margin-right: 40px;
+}
+.gap{
+    margin-top: 0px;
+}
 /* CARD */
 .card-custom .card-custom-image {
     overflow: hidden;
@@ -328,6 +334,13 @@ video.vid{
         height: 500px;
         margin-top: -280px;
         margin-bottom: -120px;
+    }
+
+    .ex{
+        text-align: center;
+    }
+    .gap{
+        margin-top: 40px;
     }
 }
 .ECN_logo{
